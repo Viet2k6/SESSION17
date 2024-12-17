@@ -3,7 +3,7 @@
 int displayMenu(){
 	int choice;
 	printf("\n MENU \n");
-    printf("1.Nhap vao so phan tu va tung phan tu\n");
+        printf("1.Nhap vao so phan tu va tung phan tu\n");
 	printf("2.Hien thi cac phan tu trong mang\n");
 	printf("3.Tinh do dai mang\n");
 	printf("4.Tinh tong cac phan tu trong mang\n");
